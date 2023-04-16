@@ -7,6 +7,9 @@ jurlien lartassa'd/lertasa'd acirlanen ripiet -- 悠里人物・政治資料集�
 
 - [IDLT(ユエスレオネ社会党ステデラフ・イェスカ派)について](./Rantein/IDLT.md)  
 
+## dyin
+- [dyin](./dyin.md)
+
 ## PMCF  
 - [イスケ紛争](./iske.md)  
 - [リナエスト内戦](./linaest_war.md)  
