@@ -1,7 +1,7 @@
-**イェスカ哲学**（理：<span class="cirlipa">jeska'd latirno</span>）とは[リパラオネ思想](http://www.jurliyuuri.info/w/index.php?title=リパラオネ思想)の一つであり、イェスカ主義の礎となった[ターフ・ヴィール・イェスカ](http://www.jurliyuuri.info/w/index.php?title=ターフ・ヴィール・イェスカ)による哲学的思想である。特にイェスカ哲学と呼ぶ場合は、哲学的な思想を政治化したイェスカ主義との対比で語られることが多い。
+**イェスカ哲学**（理：<span class="cirlipa">jeska'd latirno</span>）とは[リパラオネ思想](http://www.jurliyuuri.info/w/index.php?title=リパラオネ思想)の一つであり、イェスカ主義の根本的要素をなす[ターフ・ヴィール・イェスカ](http://www.jurliyuuri.info/w/index.php?title=ターフ・ヴィール・イェスカ)による哲学的思想である。特にイェスカ哲学と呼ぶ場合は、社会思想であるイェスカ主義との対比で語られることが多い。
 
 ## 概要
-イェスカ哲学はリパラオネ思想の系譜を継ぐ、哲学的思想である。その根底には以下の3つが存在しているとされている。
+社会主義や資本主義と同じ社会設計のための理想像を根幹とし、その理想の実現に向けた行動のあり方、考え方の規範を定める。イェスカ哲学は、リパラオネ教法学におけるアレス学派と古典学派の対比を基にしたリパラオネ思想の系譜を継ぐ、哲学的思想である。その根底には以下の3つが存在しているとされている。
 
 * [革新チャショーテ](http://www.jurliyuuri.info/w/index.php?title=革新チャショーテ)
 * [レヴェン思想](http://www.jurliyuuri.info/w/index.php?title=レヴェン思想)
